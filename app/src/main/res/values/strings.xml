@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZeroTap</string>
+    <string name="accessibility_label">ZeroTap Agent</string>
+    <string name="accessibility_description">ZeroTap uses the accessibility service to read the current screen and perform taps, swipes and text entry on your behalf while completing a task you requested. You are always in control and can stop it at any time.</string>
+</resources>
